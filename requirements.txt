@@ -1,0 +1,10 @@
+Python 3.8.5
+pip install pillow
+pip install MySQL-python
+pip install mysql-connector-python
+pip install opencv-python 
+pip install opencv-contrib-python
+pip install numpy
+pip install pyttsx3
+
+*Also read Note.txt file

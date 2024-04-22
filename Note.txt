@@ -1,0 +1,6 @@
+Note 1: First of delete all student data and fill newly fresh data on your behalf
+Note 2: Also delete all photo sample (collect_sample)
+Note 3: And delete all the csv file attendence
+Note 4: Per csv file only one day's attendance will be saved in the csv file
+Note 5: if you want to save the attendance of next day in csv file then you have to provide new 
+        seprately csv file in program i.e Go to recognition_face.py and find this file name ->present.csv replace to sample.csv
